@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/gabrielbarbosaa/gabrielbarbosaa/blob/output/github-contribution-grid-snake.gif" alt="Snake nimation" />
+<img src="https://github.com/gabrielbarbosaa/gabrielbarbosaa/blob/output/snake.svg" alt="Snake nimation" />
 
 ###
