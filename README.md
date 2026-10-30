@@ -1,46 +1,48 @@
-<h2 align="left">Olá 👋! Meu nome é Gabriel Barbosa e eu sou desenvolvedor Front End e mobile.</h2>
+<h1 align="center">Olá, eu sou o Gabriel Barbosa 👋</h1>
 
-###
+<p align="center">
+  <b>Desenvolvedor Front-end Sênior</b> · React · Next.js · React Native · TypeScript
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=gabrielbarbosaa" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=gabrielbarbosaa" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://gabrielbarbosa.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-barbosa-azevedo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/gabrielbarbosa.js/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-###
+<img align="right" width="300" src="assets/workspace.gif" alt="Animação de um ambiente de desenvolvimento" />
 
-<img align="right" height="150" src="https://i.imgur.com/dH95y2i.gif"  />
+### Sobre mim
 
-###
+- 💼 Atualmente na **ATF Credit**, responsável pela arquitetura e governança técnica do front-end de plataformas bancárias (Internet Banking e aplicativos mobile)
+- 🚀 Mais de 5 anos desenvolvendo aplicações web e mobile com React, Next.js e React Native
+- 🧩 Experiência com micro front-ends, offline-first, acessibilidade, SEO e performance
+- ☕ Atuação complementar no back-end com Java e Python
+- 🎓 Cursando Engenharia de Software na Universidade Cruzeiro do Sul
+- 📍 Porto Alegre, RS
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-</div>
+<br clear="both" />
 
-###
+### Tecnologias
 
-<div align="left">
-  <a href="https://www.instagram.com/gabrielbarbosa.js/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-barbosa-azevedo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwindcss,sass,styledcomponents,materialui,bootstrap,redux,java,python,figma,git&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Sass, Styled Components, Material UI, Bootstrap, Redux, Java, Python, Figma e Git" />
 
-###
+Também trabalho com React Native, Zustand, React Query, React Hook Form, Zod, Chakra UI e Realm.
 
-<br clear="both">
+### Estatísticas
 
-<img src="https://github.com/gabrielbarbosaa/gabrielbarbosaa/blob/output/snake.svg" alt="Snake nimation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielbarbosaa/gabrielbarbosaa/output/stats-dark.svg" />
+    <img height="165" src="https://raw.githubusercontent.com/gabrielbarbosaa/gabrielbarbosaa/output/stats.svg" alt="Estatísticas do GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielbarbosaa/gabrielbarbosaa/output/top-langs-dark.svg" />
+    <img height="165" src="https://raw.githubusercontent.com/gabrielbarbosaa/gabrielbarbosaa/output/top-langs.svg" alt="Linguagens mais usadas" />
+  </picture>
+</p>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielbarbosaa/gabrielbarbosaa/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/gabrielbarbosaa/gabrielbarbosaa/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+</picture>
